@@ -1,0 +1,49 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: "roboto";
+}
+.covid-page{
+    border: solid 3px  #0967d219;
+    margin: 8px;
+    padding: 10px;
+
+}
+.heading{
+    font-size: 23px;
+}
+.second-section{
+    background-color: #0967d219;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.second-section p{
+    font-size: 12px;
+}
+.first-card{
+    border-radius: 10px;
+    background-color: aquamarine;
+    padding: 10px;
+    margin-right: 20px;
+}
+.pera{
+    color: white;
+}
+.second-card {
+    border-radius: 10px;
+    background-color:palevioletred;
+    padding: 10px;
+    margin-right: 20px;
+}
+.third-card{
+    border-radius: 10px;
+    background-color:rgb(197, 108, 238);
+    padding: 10px;
+    margin-right: 20px;
+}
+.videos{
+    background-color: bisque;
+    border-radius: 10px;
+    padding: 10px;
+}
